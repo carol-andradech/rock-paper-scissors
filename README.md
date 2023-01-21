@@ -1,5 +1,4 @@
-## About 
-rock-paper-scissors
+## About rock-paper-scissors
 
 A simple game of rock, paper, scissos made with JS.
 
